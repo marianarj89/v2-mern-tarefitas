@@ -1,6 +1,6 @@
 # Tarefitas V2
 
-Projeto desenvolvido por Mariana Sá Ribas.
+Projeto desenvolvido por Mariana S. Ribas.
 
 - Aluna: [Mariana Sá Ribas](mailto:mariana.ribas@al.infnet.edu.br)
 - Professor: Armênio Cardoso
